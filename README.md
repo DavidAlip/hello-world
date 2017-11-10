@@ -1,3 +1,3 @@
 # hello-world
-Tutorial
-Starting a new journey into the unknown.
+Hi there!
+I am starting a new journey into the unknown.
